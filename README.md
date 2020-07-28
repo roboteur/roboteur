@@ -1,1 +1,1 @@
-# ![The Roboteur](./roboteur.jpg)<p align='center'>
+# ![The Roboteur](https://github.com/roboteur/roboteur/blob/master/roboteur.jpg)
